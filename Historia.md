@@ -23,4 +23,9 @@ La pantalla se divide de en cuatro vemos cuatro personajes(jovenes dentre 21 y 2
 
 Ahora aparecemos en el cuarto del protagonista el cual estalla antes los anuncios y toma su monitor y lo lanza por la ventana de su cuarto, diciendo *"Ya estoy harto de estos anuncios!!!!!!"* y ahora aparecen sus amigos en viñetas de comic reaccionando con el emoticon de *😲*. Ahora cambiamos a una vista en primera persona y el protagonista señala con el dedo hacia el horizonte donde vemos cinco edificos enormes y uno erguiendose en medio de ellos con el nombre de la Megacorporacion X y el protagonista dice en una viñeta de comic *"Es hora de acabor con los anuncios"*
 
+**Let's Fucking GOOOOOOO!!!**
+
+![alt text](image-3.png)
+
+Aparece el protagonista señalando hacia las compañias de anuncio y sus tres amigos detras de el.
 ---
