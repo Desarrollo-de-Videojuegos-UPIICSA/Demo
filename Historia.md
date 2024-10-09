@@ -1,6 +1,6 @@
 # Historia
-## Luis Diaz - Director de Escritura
----
+**Luis Diaz - Director de Escritura**
+
 ## Intro
 
 Pantalla negra - Aparecen letras en color blanco en estilo pixel art "Año 2069"
