@@ -9,7 +9,7 @@ stateDiagram
     CN --> LG
     LG --> MN
     MN --> OpSTRT
-    Op-STRT --> [*]
+    OpSTRT --> [*]
 ```
 
 ### Explicacion
